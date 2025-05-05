@@ -113,6 +113,11 @@
     width: 400px;
 }
 
+.kartactvrta {
+    background-color: rgb(18, 158, 0);
+    width: 400px;
+    border-radius: 10px 30px 10px 30px;
+}
 /* Media Query pro šířky pod 500 px */
 
 
